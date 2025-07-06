@@ -1,0 +1,16 @@
+class Solution {
+    int maxProduct(int[] arr) {
+        // code here
+        int max = arr[0];
+        int currmax = arr[0];
+        int currmin = arr[0];
+        for(int i=1; i<arr.length; i++){
+            int tm = currmax;
+            currmax = Math.max(arr[i], Math.max(arr[i]*currmax, currmin*arr[i]));
+            currmin = Math.min(arr[i], Math.min(arr[i]*tm, currmin*arr[i]));
+            
+            max = Math.max(currmax,max);
+        }
+        return max;
+    }
+}
