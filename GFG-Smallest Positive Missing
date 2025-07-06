@@ -1,0 +1,23 @@
+import java.util.*;
+class Solution {
+    public int missingNumber(int[] arr) {
+        // code here
+        int max = Integer.MIN_VALUE;
+        
+        Set<Integer> hs = new HashSet<>();
+        for(int n : arr){
+            if(n>0){
+                hs.add(n);
+                max = Math.max(n,max);
+            }
+        }
+        if(hs.isEmpty()) return 1;
+        for(int i=1; i<=max; i++){
+            if(!hs.contains(i)){
+                return i;
+            }
+        }
+        
+        return max+1;
+    }
+}
