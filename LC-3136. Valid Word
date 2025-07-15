@@ -1,0 +1,19 @@
+class Solution {
+    public boolean isValid(String word) {
+        if(word.length() < 3) return false;
+        boolean v =false;
+        boolean c =false;
+        for(char a : word.toCharArray()){
+            if(!Character.isLetterOrDigit(a)) return false;
+            char ch = Character.toLowerCase(a);
+            if(Character.isLetter(a)){
+                if("aeiou".indexOf(ch) != -1){
+                    v = true;
+                }else{
+                    c= true;
+                }
+            }
+        }
+        return v && c;
+    }
+}
