@@ -1,0 +1,46 @@
+// User function Template for Java
+
+class Solution {
+    public int kthElement(int a[], int b[], int k) {
+        // code here
+        // int n = a.length + b.length;
+        // int arr[] = new int[n];
+        // for(int i=0; i<a.length; i++){
+        //     arr[i] = a[i];
+        // }
+        // int idx = a.length;
+        // for(int j=0; j<b.length; j++){
+        //     arr[idx] = b[j];
+        //     idx++;
+        // }
+        // Arrays.sort(arr);
+        // return arr[k-1];
+        int n1 = a.length, n2 = b.length;
+        int i=0, j=0, count =0, res=0;
+        while(i<n1 && j<n2){
+            if(a[i]<b[j]){
+                res = a[i];
+                i++;
+                count++;
+            }else{
+                res=b[j];
+                count++;
+                j++;
+            }
+            if(count == k) return res;
+        }
+        while(i<n1){
+            res = a[i];
+            i++;
+            count++;
+            if(count==k) return res;
+        }
+        while(j<n2){
+            res= b[j];
+            j++;
+            count++;
+            if(count == k) return res;
+        }
+        return -1;
+    }
+}
