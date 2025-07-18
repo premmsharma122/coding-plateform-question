@@ -1,0 +1,37 @@
+
+//Back-end complete function Template for Java
+import java.util.*;
+class Solution {
+    public static boolean help(int arr[], int k, int dist){
+        int sum =0, st=1;
+        for(int a : arr){
+            if(a > dist) return false;
+            if(sum + a > dist){
+                sum = a;
+                st++;
+            }else{
+                sum+=a;
+            }
+        }
+        return st<=k;
+        
+    }
+    public static int findPages(int[] arr, int k) {
+        // code here
+        if(k> arr.length) return -1;
+       int low = Arrays.stream(arr).max().getAsInt();
+       int high = Arrays.stream(arr).sum();
+       int ans=-1;
+        while(low <= high){
+            int mid = low + (high-low)/2;
+            if(help(arr,k, mid )){
+                ans = mid;
+                high = mid-1;
+            }else{
+                low = mid+1;
+            }
+        }
+        return ans;
+        
+    }
+}
