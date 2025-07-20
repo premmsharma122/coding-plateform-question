@@ -1,0 +1,27 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SHORT CUT METHOD <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+class Solution {
+    public int kthMissing(int[] arr, int k) {
+        // code here
+        int max = Integer.MIN_VALUE;
+        HashSet<Integer> ans = new HashSet<>();
+        for(int i=0; i<arr.length; i++){
+            max = Math.max(arr[i], max);
+            ans.add(arr[i]);
+        }
+        ArrayList<Integer> res = new ArrayList<>();
+        for(int i=1; i<=max; i++){
+            res.add(i);
+        }
+        int c=0;
+        for(int i=0; i<res.size(); i++ ){
+            if(!ans.contains(res.get(i))){
+            c++;
+            if(c==k) return res.get(i);
+            }
+        }
+        if(c==0) return max+k;
+        if(c<k) return max+(k-c);
+        return -1;
+    }
+}
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Logic Approach <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
