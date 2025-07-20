@@ -1,0 +1,28 @@
+class Solution {
+    public int vowelCount(String s) {
+        // code here
+        HashMap<Character, Integer> hm = new HashMap<>();
+       
+        for(int i=0; i<s.length(); i++){
+            hm.put(s.charAt(i), hm.getOrDefault(s.charAt(i),0)+1);
+            
+        }
+        int oc =1;
+        int vcount =0;
+        
+        for(char c : hm.keySet()){
+            if("aeiou".indexOf(c) != -1){
+                vcount++;
+                oc *= hm.get(c);
+            }
+        }
+        if(vcount ==0) return 0;
+        int ans=1;
+        while(vcount>0){
+            ans*=vcount;
+            vcount--;
+        }
+        return ans*oc;
+       
+    }
+}
