@@ -1,0 +1,53 @@
+class Solution {
+    class Edge{
+        int src;
+        int dest;
+        Edge(int s, int d){
+            this.src = s;
+            this.dest = d;
+        }
+    }
+    public static void calIn(ArrayList<Edge>[] g, int dg[]){
+        for(int i=0; i<g.length; i++){
+            int v=i;
+            for(int j=0; j<g[i].size(); j++){
+                Edge e = g[v].get(j);
+                dg[e.dest]++;
+            }
+        }
+    }
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        ArrayList<Edge>[] g = new ArrayList[numCourses];
+        for(int i=0; i<numCourses; i++){
+            g[i] = new ArrayList<>();
+        }
+        for(int num[] : prerequisites){
+            int a1 = num[0];
+            int a2 = num[1];
+            g[a2].add(new Edge(a2,a1));
+        }
+        int dg[] = new int[numCourses];
+        calIn(g, dg);
+        Queue<Integer> q = new LinkedList<>();
+        for(int i=0; i<dg.length; i++){
+            if(dg[i] == 0){
+                q.add(i);
+            }
+        }
+        int ans[] = new int[numCourses];
+        int idx =0;
+        while(!q.isEmpty()){
+            int curr = q.remove();
+            ans[idx++] = curr;
+
+            for(int i=0; i<g[curr].size(); i++ ){
+                Edge e = g[curr].get(i);
+                dg[e.dest]--;
+                if(dg[e.dest]==0){
+                    q.add(e.dest);
+                }
+            }
+        }
+           return idx == numCourses ? ans : new int[0];
+    }
+}
