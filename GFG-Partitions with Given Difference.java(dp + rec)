@@ -25,3 +25,25 @@ class Solution {
         return dp[n][trg];
     }
 }
+//>>>>>>> Rec <<<<<<<<<<
+class Solution {
+    int help(int arr[], int sum , int curr, int idx, int d){
+        if(idx == arr.length){
+            int s2 = Math.abs(sum - 2*curr);  // <-- difference of two subsets
+            if(s2 == d) return 1;             // <-- valid partition found
+            return 0;
+        }
+        // choice 1: include arr[idx] in subset
+        // choice 2: skip arr[idx]
+        return help(arr, sum, curr+arr[idx], idx+1, d) 
+             + help(arr, sum, curr, idx+1, d);                   
+    }
+    
+    int countPartitions(int[] arr, int d) {
+        int sum = 0;
+        for(int n : arr){
+            sum += n;
+        }
+        return help(arr, sum, 0, 0, d);
+    }
+}
