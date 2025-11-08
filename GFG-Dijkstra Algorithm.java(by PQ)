@@ -1,0 +1,56 @@
+import java.util.*;
+
+class Pair {
+    int wt;
+    int node;
+    Pair(int wt, int node) {
+        this.wt = wt;
+        this.node = node;
+    }
+}
+
+class Solution {
+    public int[] dijkstra(int V, int[][] edges, int src) {
+        // Step 1: Build adjacency list
+        ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
+        for (int i = 0; i < V; i++) adj.add(new ArrayList<>());
+        for (int[] e : edges) {
+            int u = e[0], v = e[1], w = e[2];
+            adj.get(u).add(new Pair(w, v));
+            adj.get(v).add(new Pair(w, u)); // undirected
+        }
+
+        // Step 2: Distance + Visited
+        int[] dist = new int[V];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        boolean[] visited = new boolean[V];
+        dist[src] = 0;
+
+        // Step 3: Min-heap
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.wt - b.wt);
+        pq.add(new Pair(0, src));
+
+        // Step 4: Dijkstra’s Algorithm
+        while (!pq.isEmpty()) {
+            Pair cur = pq.poll();
+            int node = cur.node;
+            int w = cur.wt;
+
+            // If already finalized, skip
+            if (visited[node]) continue;
+            visited[node] = true;
+
+            for (Pair edge : adj.get(node)) {
+                int next = edge.node;
+                int wtEdge = edge.wt;
+
+                if (!visited[next] && w + wtEdge < dist[next]) {
+                    dist[next] = w + wtEdge;
+                    pq.add(new Pair(dist[next], next));
+                }
+            }
+        }
+
+        return dist;
+    }
+}
