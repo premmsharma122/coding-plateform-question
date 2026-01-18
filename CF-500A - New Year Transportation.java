@@ -15,7 +15,7 @@ public class Main{
         }
         if(idx==m){
             System.out.println("YES");
-        }else System.out.println("NO");
+        }else System.out.println("NO"); 
         
     }
 }
