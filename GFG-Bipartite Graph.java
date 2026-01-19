@@ -14,7 +14,7 @@ class Solution {
                 }else if(col[a]==col[curr]){
                     return false;
                 }
-            }
+            } 
         }
         return true;
         
