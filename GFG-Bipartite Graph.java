@@ -2,7 +2,7 @@ class Solution {
     public boolean help(int st, int V , ArrayList<ArrayList<Integer>> adj,int col[]){
         Queue<Integer> q = new LinkedList<>();
         col[st] = 0;
-        q.add(st);
+        q.add(st); 
         while(!q.isEmpty()){
             int curr = q.peek();
             q.remove();
