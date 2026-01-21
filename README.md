@@ -1,1 +1,81 @@
-Some Good Questions From Different Coding Plateform.
+# 🚀 Coding Practice Repository
+
+A curated collection of **important and high-quality coding problems** solved from different competitive programming platforms.
+
+This repository is created to strengthen **Data Structures & Algorithms**, improve **problem-solving skills**, and maintain a well-organized reference for future revision and interviews.
+
+---
+
+## 📌 Platforms Covered
+
+- ✅ **LeetCode (LC)**
+- ✅ **Codeforces (CF)**
+- ✅ **GeeksforGeeks (GFG)**
+
+---
+
+## 🧠 What You’ll Find Here
+
+- 📘 Hand-picked **good-quality problems**
+- 🧩 Problems ranging from **easy → medium → hard**
+- ⚡ Optimized and clean solutions
+- 🧠 Logical explanations where required
+- 🎯 Frequently asked **interview problems**
+- 🏆 Competitive programming standard approaches
+
+---
+
+
+## ✨ Topics Covered
+
+- Arrays & Strings  
+- Two Pointers  
+- Sliding Window  
+- Prefix Sum  
+- Hashing  
+- Recursion & Backtracking  
+- Linked List  
+- Stack & Queue  
+- Binary Search  
+- Trees & BST  
+- Graphs (BFS / DFS / Shortest Path)  
+- Dynamic Programming  
+- Greedy Algorithms  
+- Bit Manipulation  
+
+---
+
+## 📈 Purpose of This Repository
+
+- 🔹 Daily DSA practice  
+- 🔹 Interview preparation  
+- 🔹 Competitive programming improvement  
+- 🔹 Revision before contests  
+- 🔹 Maintain clean solution archive  
+
+---
+
+## 🌟 Highlights
+
+- ✅ Clean and readable code
+- ✅ Optimized solutions
+- ✅ Covers real interview patterns
+- ✅ Regularly updated
+- ✅ Beginner to advanced friendly
+
+---
+
+## 📊 Platforms Profile
+
+- **LeetCode** – DSA & Interview focused  
+- **Codeforces** – Competitive logic & speed  
+- **GeeksforGeeks** – Core concept strengthening  
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone 
+
