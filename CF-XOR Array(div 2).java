@@ -9,7 +9,7 @@ public class Main {
         while (t-- > 0) {
             int n = sc.nextInt();
             int l = sc.nextInt();
-            int r = sc.nextInt();
+            int r = sc.nextInt(); 
 
             int[] p = new int[n + 1];
 
