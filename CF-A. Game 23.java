@@ -2,7 +2,7 @@ import java.util.*;
 public class Main{
     public static int help(int n, int m){
         if(n > m) return -1;      // impossible
-        if(n == m) return 0;      // reached target
+        if(n == m) return 0;      
 
         int res2 = help(n * 2, m);
         int res3 = help(n * 3, m);
