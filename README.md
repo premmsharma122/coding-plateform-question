@@ -93,10 +93,12 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -105,5 +107,10 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
