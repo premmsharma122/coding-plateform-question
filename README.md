@@ -94,6 +94,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -103,14 +104,20 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
