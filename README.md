@@ -85,6 +85,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/premmsharma122/coding-plateform-question/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
@@ -128,6 +129,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/premmsharma122/coding-plateform-question/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
