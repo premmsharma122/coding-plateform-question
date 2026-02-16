@@ -1,15 +1,13 @@
 class Solution {
     public int reverseBits(int n) {
-        
-        String binaryStr = String.format("%32s", Integer.toBinaryString(n)).replace(' ', '0');
-        
-        
-        String reversedBinaryStr = new StringBuilder(binaryStr).reverse().toString();
-        
-        
-        long reversedValue = Long.parseLong(reversedBinaryStr, 2);
-        
-        
-        return (int) reversedValue;
+        int result = 0;
+
+        for (int i = 0; i < 32; i++) {
+            result = result * 2;      
+            result = result + (n % 2);
+            n = n / 2;              
+        }
+
+        return result;
     }
 }
