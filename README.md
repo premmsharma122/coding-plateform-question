@@ -185,4 +185,12 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/premmsharma122/coding-plateform-question/tree/master/0401-binary-watch) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
