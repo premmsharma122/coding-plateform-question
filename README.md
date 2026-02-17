@@ -131,6 +131,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/premmsharma122/coding-plateform-question/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/premmsharma122/coding-plateform-question/tree/master/0401-binary-watch) |
 ## Array
 |  |
 | ------- |
@@ -180,4 +181,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/premmsharma122/coding-plateform-question/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
