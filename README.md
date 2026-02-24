@@ -101,6 +101,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
@@ -111,6 +112,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -126,6 +128,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
