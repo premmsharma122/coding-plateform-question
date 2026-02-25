@@ -153,6 +153,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Array
 |  |
 | ------- |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
@@ -196,6 +197,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Dynamic Programming
 |  |
 | ------- |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0799-champagne-tower](https://github.com/premmsharma122/coding-plateform-question/tree/master/0799-champagne-tower) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Math
