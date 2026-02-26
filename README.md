@@ -223,11 +223,13 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0061-rotate-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
