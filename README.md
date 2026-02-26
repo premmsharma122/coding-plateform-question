@@ -162,6 +162,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
@@ -181,6 +182,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
@@ -237,4 +239,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
