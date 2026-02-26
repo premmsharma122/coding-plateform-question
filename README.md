@@ -149,6 +149,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0693-binary-number-with-alternating-bits](https://github.com/premmsharma122/coding-plateform-question/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/premmsharma122/coding-plateform-question/tree/master/0868-binary-gap) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
@@ -183,6 +184,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
@@ -209,6 +211,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Backtracking
 |  |
 | ------- |
