@@ -222,6 +222,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,4 +244,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
