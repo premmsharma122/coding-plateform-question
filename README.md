@@ -224,6 +224,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/premmsharma122/coding-plateform-question/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0206-reverse-linked-list) |
@@ -231,6 +232,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0876-middle-of-the-linked-list) |
