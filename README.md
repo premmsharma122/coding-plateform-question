@@ -122,6 +122,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -158,6 +159,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/premmsharma122/coding-plateform-question/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -210,6 +212,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/premmsharma122/coding-plateform-question/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0799-champagne-tower](https://github.com/premmsharma122/coding-plateform-question/tree/master/0799-champagne-tower) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
