@@ -199,6 +199,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
@@ -222,6 +223,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/premmsharma122/coding-plateform-question/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
@@ -249,6 +251,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/premmsharma122/coding-plateform-question/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
