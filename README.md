@@ -213,6 +213,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/premmsharma122/coding-plateform-question/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/premmsharma122/coding-plateform-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
@@ -238,6 +239,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/premmsharma122/coding-plateform-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Math
 |  |
@@ -297,6 +299,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/premmsharma122/coding-plateform-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
 |  |
 | ------- |
