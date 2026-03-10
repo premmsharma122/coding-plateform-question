@@ -106,6 +106,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/premmsharma122/coding-plateform-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -119,6 +120,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -141,6 +143,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/premmsharma122/coding-plateform-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -224,6 +227,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
@@ -284,6 +288,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/premmsharma122/coding-plateform-question/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 ## Linked List
