@@ -8,26 +8,27 @@
  * }
  */
 class Solution {
-    public boolean pathFind(TreeNode r, TreeNode n , List<TreeNode> path){
+    public boolean help(TreeNode r, TreeNode trg, List<TreeNode> arr){
         if(r==null) return false;
-        path.add(r);
-        if(r.val == n.val) return true;
-        boolean leftPath = pathFind(r.left,n,path);
-        boolean rightPath = pathFind(r.right,n,path);
-        if(leftPath || rightPath) return true;
-        path.remove(path.size()-1);
+        arr.add(r);
+        if(r.val==trg.val) return true;
+        boolean lf = help(r.left,trg,arr);
+        boolean rg = help(r.right,trg,arr);
+        if(lf || rg) return true;
+        arr.remove(arr.size()-1);
         return false;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List<TreeNode> path1 = new ArrayList<>();
-        List<TreeNode> path2 = new ArrayList<>();
-        pathFind(root,p,path1);
-        pathFind(root,q,path2);
+        List<TreeNode> lf = new ArrayList<>();
+        List<TreeNode> rg = new ArrayList<>();
+        boolean a1 = help(root,p,lf);
+        boolean a2 = help(root,q,rg);
+        TreeNode lca=null;
+
         int i=0;
-        for(;i<path1.size() && i<path2.size(); i++ ){
-            if(path1.get(i) != path2.get(i)) break;
+        for(;i<lf.size() && i<rg.size(); i++){
+            if(lf.get(i)!=rg.get(i)) break;
         }
-        return path1.get(i-1);
-        
+        return lf.get(i-1);
     }
 }
