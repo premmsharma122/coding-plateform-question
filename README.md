@@ -189,6 +189,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0693-binary-number-with-alternating-bits](https://github.com/premmsharma122/coding-plateform-question/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/premmsharma122/coding-plateform-question/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/premmsharma122/coding-plateform-question/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
