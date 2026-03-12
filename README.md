@@ -99,6 +99,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Tree
 |  |
 | ------- |
@@ -374,4 +376,16 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
