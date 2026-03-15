@@ -254,6 +254,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -323,6 +324,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Simulation
@@ -423,4 +425,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
