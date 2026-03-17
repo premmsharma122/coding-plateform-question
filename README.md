@@ -241,6 +241,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/premmsharma122/coding-plateform-question/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/premmsharma122/coding-plateform-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/premmsharma122/coding-plateform-question/tree/master/0141-linked-list-cycle) |
@@ -274,6 +275,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0032-longest-valid-parentheses](https://github.com/premmsharma122/coding-plateform-question/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/premmsharma122/coding-plateform-question/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
@@ -389,6 +391,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/premmsharma122/coding-plateform-question/tree/master/0076-minimum-window-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/premmsharma122/coding-plateform-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
 |  |
