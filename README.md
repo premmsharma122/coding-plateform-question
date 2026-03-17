@@ -271,6 +271,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/premmsharma122/coding-plateform-question/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
@@ -301,6 +302,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/premmsharma122/coding-plateform-question/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -430,6 +432,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/premmsharma122/coding-plateform-question/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Design
 |  |
