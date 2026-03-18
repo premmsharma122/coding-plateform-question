@@ -236,6 +236,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
@@ -266,6 +267,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
@@ -417,6 +419,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Trie
 |  |
 | ------- |
