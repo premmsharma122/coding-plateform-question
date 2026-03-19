@@ -199,6 +199,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0104-maximum-depth-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/premmsharma122/coding-plateform-question/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
@@ -318,6 +319,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/premmsharma122/coding-plateform-question/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
@@ -335,6 +337,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0002-add-two-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/premmsharma122/coding-plateform-question/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
