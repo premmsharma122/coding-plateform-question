@@ -141,6 +141,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0124-binary-tree-maximum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
@@ -202,6 +203,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/premmsharma122/coding-plateform-question/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0662-maximum-width-of-binary-tree) |
@@ -229,6 +231,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/premmsharma122/coding-plateform-question/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
@@ -429,6 +432,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -448,6 +452,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
