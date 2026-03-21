@@ -141,6 +141,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0124-binary-tree-maximum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
@@ -201,6 +202,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/premmsharma122/coding-plateform-question/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -451,6 +453,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -470,4 +473,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
