@@ -239,6 +239,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/premmsharma122/coding-plateform-question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -340,6 +341,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/premmsharma122/coding-plateform-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -436,6 +438,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/premmsharma122/coding-plateform-question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
