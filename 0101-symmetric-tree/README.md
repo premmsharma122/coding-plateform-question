@@ -4,7 +4,7 @@
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/symtree1.jpg" style="width: 354px; height: 291px;" />
 <pre>
-<strong>Input:</strong> root = [1,2,2,3,4,4,3]
+<strong>Input:</strong> root = [1,2,2,3,4,4,3]   
 <strong>Output:</strong> true
 </pre>
 
