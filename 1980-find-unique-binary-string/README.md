@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
+<pre>  
 <strong>Input:</strong> nums = [&quot;01&quot;,&quot;10&quot;]
 <strong>Output:</strong> &quot;11&quot;
 <strong>Explanation:</strong> &quot;11&quot; does not appear in nums. &quot;00&quot; would also be correct.
