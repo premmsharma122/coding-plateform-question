@@ -252,6 +252,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/premmsharma122/coding-plateform-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
@@ -338,6 +339,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/premmsharma122/coding-plateform-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/premmsharma122/coding-plateform-question/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/premmsharma122/coding-plateform-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
