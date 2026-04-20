@@ -212,6 +212,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
@@ -240,6 +241,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -376,6 +378,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0799-champagne-tower](https://github.com/premmsharma122/coding-plateform-question/tree/master/0799-champagne-tower) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
