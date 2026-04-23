@@ -386,6 +386,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
 | [0799-champagne-tower](https://github.com/premmsharma122/coding-plateform-question/tree/master/0799-champagne-tower) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
@@ -406,6 +407,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/premmsharma122/coding-plateform-question/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
+| [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -497,6 +499,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0021-merge-two-sorted-lists](https://github.com/premmsharma122/coding-plateform-question/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/premmsharma122/coding-plateform-question/tree/master/0273-integer-to-english-words) |
+| [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -527,6 +530,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
