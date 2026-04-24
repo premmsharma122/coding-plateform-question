@@ -359,6 +359,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2452-words-within-two-edits-of-dictionary](https://github.com/premmsharma122/coding-plateform-question/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/premmsharma122/coding-plateform-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/premmsharma122/coding-plateform-question/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2953-count-complete-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/2953-count-complete-substrings) |
@@ -368,6 +369,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/premmsharma122/coding-plateform-question/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 | Problem Name | Difficulty |
