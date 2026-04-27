@@ -156,6 +156,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -219,6 +220,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -518,6 +521,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -548,6 +552,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
