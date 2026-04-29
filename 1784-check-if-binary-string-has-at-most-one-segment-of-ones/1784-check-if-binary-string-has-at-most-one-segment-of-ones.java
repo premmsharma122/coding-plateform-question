@@ -6,6 +6,7 @@ class Solution {
             char c = s.charAt(i);
 
             if (c == '0') {
+                int x=0;
                 seenZero = true;
             } 
             else if (c == '1' && seenZero) {    
