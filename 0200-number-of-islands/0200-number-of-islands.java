@@ -1,4 +1,4 @@
-class Solution {
+class Solution {  
     public void dfs(int i,int j, char g[][]){
         if(i<0 || j<0 || i>=g.length || j>=g[0].length || g[i][j]!='1') return;
         g[i][j]='0';
