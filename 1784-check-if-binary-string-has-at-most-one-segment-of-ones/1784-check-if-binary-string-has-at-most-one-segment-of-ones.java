@@ -8,7 +8,7 @@ class Solution {
             if (c == '0') {
                 seenZero = true;
             } 
-            else if (c == '1' && seenZero) {
+            else if (c == '1' && seenZero) {    
                 return false;
             }
         }
