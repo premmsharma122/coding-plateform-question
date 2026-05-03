@@ -357,6 +357,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0657-robot-return-to-origin](https://github.com/premmsharma122/coding-plateform-question/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/premmsharma122/coding-plateform-question/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -606,6 +607,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/premmsharma122/coding-plateform-question/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Geometry
 | Problem Name | Difficulty |
