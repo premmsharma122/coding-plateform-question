@@ -240,6 +240,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/premmsharma122/coding-plateform-question/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/premmsharma122/coding-plateform-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -427,6 +428,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/premmsharma122/coding-plateform-question/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/premmsharma122/coding-plateform-question/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
@@ -533,6 +535,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/premmsharma122/coding-plateform-question/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
