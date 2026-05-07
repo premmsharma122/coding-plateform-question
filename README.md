@@ -292,6 +292,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3643-flip-square-submatrix-vertically](https://github.com/premmsharma122/coding-plateform-question/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/premmsharma122/coding-plateform-question/tree/main/3660-jump-game-ix/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -424,6 +425,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/premmsharma122/coding-plateform-question/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/premmsharma122/coding-plateform-question/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
