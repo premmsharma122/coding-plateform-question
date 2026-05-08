@@ -223,6 +223,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -289,6 +290,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3488-closest-equal-element-queries](https://github.com/premmsharma122/coding-plateform-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/premmsharma122/coding-plateform-question/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -317,6 +319,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2953-count-complete-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/2953-count-complete-substrings) |
 | [3488-closest-equal-element-queries](https://github.com/premmsharma122/coding-plateform-question/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
@@ -448,6 +451,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/premmsharma122/coding-plateform-question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/premmsharma122/coding-plateform-question/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
@@ -621,4 +625,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
