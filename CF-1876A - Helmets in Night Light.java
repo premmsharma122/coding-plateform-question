@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    static class Person {
+    static class Person {   
         int a, b;
         Person(int a, int b) {
             this.a = a;
