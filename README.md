@@ -276,6 +276,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/premmsharma122/coding-plateform-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/premmsharma122/coding-plateform-question/tree/main/2615-sum-of-distances/) | Medium |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -469,6 +470,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1914-cyclically-rotating-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/premmsharma122/coding-plateform-question/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/premmsharma122/coding-plateform-question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3653-xor-after-range-multiplication-queries-i) |
