@@ -246,6 +246,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/premmsharma122/coding-plateform-question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -294,6 +295,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2553-separate-the-digits-in-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/premmsharma122/coding-plateform-question/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/premmsharma122/coding-plateform-question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/premmsharma122/coding-plateform-question/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -340,6 +342,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/premmsharma122/coding-plateform-question/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/premmsharma122/coding-plateform-question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/premmsharma122/coding-plateform-question/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2953-count-complete-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/2953-count-complete-substrings) |
