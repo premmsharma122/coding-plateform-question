@@ -268,6 +268,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
+| [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1306-jump-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1306-jump-game-iii) |
@@ -402,6 +403,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/premmsharma122/coding-plateform-question/tree/main/0796-rotate-string/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -631,6 +633,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
+| [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -641,6 +644,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
+| [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
