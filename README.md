@@ -156,6 +156,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -228,6 +229,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0662-maximum-width-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -634,6 +636,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -645,6 +648,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
