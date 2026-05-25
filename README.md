@@ -162,6 +162,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -234,6 +235,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
@@ -644,6 +646,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -653,6 +656,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
