@@ -1,8 +1,8 @@
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<int[]> nodes = new ArrayList<>();
-        
-        // Step 1: DFS to collect all (col, row, val)
+             
+        // Step 1: DFS  collect all (col, row, val)
         dfs(root, 0, 0, nodes);
 
         // Step 2: Sort by col, then row, then value
