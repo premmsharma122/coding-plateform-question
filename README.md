@@ -162,6 +162,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -178,6 +179,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
@@ -239,6 +241,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
@@ -288,6 +291,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/premmsharma122/coding-plateform-question/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/premmsharma122/coding-plateform-question/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -625,6 +629,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/premmsharma122/coding-plateform-question/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -662,6 +667,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
@@ -684,6 +690,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Stack
