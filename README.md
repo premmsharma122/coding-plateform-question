@@ -181,6 +181,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -317,6 +318,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/premmsharma122/coding-plateform-question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/premmsharma122/coding-plateform-question/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -377,6 +379,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -717,4 +720,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/0743-network-delay-time) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
