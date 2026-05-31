@@ -104,6 +104,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/premmsharma122/coding-plateform-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -306,6 +307,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/premmsharma122/coding-plateform-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/premmsharma122/coding-plateform-question/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -586,6 +588,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/premmsharma122/coding-plateform-question/tree/master/2784-check-if-array-is-good) |
