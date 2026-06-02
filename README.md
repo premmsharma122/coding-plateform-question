@@ -167,6 +167,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2097-valid-arrangement-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -311,6 +312,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/premmsharma122/coding-plateform-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2097-valid-arrangement-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2097-valid-arrangement-of-pairs) |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/premmsharma122/coding-plateform-question/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -694,6 +696,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/premmsharma122/coding-plateform-question/tree/master/1584-min-cost-to-connect-all-points) |
+| [2097-valid-arrangement-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
@@ -749,4 +752,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3161-block-placement-queries) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
