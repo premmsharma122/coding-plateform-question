@@ -112,6 +112,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3474-lexicographically-smallest-generated-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Tree
 |  |
 | ------- |
@@ -194,6 +195,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3488-closest-equal-element-queries](https://github.com/premmsharma122/coding-plateform-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,6 +350,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/premmsharma122/coding-plateform-question/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -587,6 +590,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/premmsharma122/coding-plateform-question/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -608,6 +612,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Rolling Hash
 |  |
 | ------- |
