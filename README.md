@@ -251,6 +251,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1609-even-odd-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/premmsharma122/coding-plateform-question/tree/master/1765-map-of-highest-peak) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/premmsharma122/coding-plateform-question/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -309,6 +310,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/premmsharma122/coding-plateform-question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/premmsharma122/coding-plateform-question/tree/master/1765-map-of-highest-peak) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/premmsharma122/coding-plateform-question/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/premmsharma122/coding-plateform-question/tree/master/1861-rotating-the-box) |
@@ -658,6 +660,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1765-map-of-highest-peak](https://github.com/premmsharma122/coding-plateform-question/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/premmsharma122/coding-plateform-question/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/premmsharma122/coding-plateform-question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
