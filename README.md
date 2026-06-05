@@ -491,6 +491,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/premmsharma122/coding-plateform-question/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -527,6 +528,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0002-add-two-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/premmsharma122/coding-plateform-question/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
+| [0233-number-of-digit-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/premmsharma122/coding-plateform-question/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
@@ -645,6 +647,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0002-add-two-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/premmsharma122/coding-plateform-question/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/premmsharma122/coding-plateform-question/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1545-find-kth-bit-in-nth-binary-string) |
