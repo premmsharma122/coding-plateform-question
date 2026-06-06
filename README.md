@@ -786,4 +786,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2097-valid-arrangement-of-pairs) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/premmsharma122/coding-plateform-question/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
