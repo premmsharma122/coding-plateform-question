@@ -184,6 +184,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
@@ -290,6 +291,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/premmsharma122/coding-plateform-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -444,6 +446,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/premmsharma122/coding-plateform-question/tree/main/0796-rotate-string/) | Easy |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -505,6 +508,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0788-rotated-digits](https://github.com/premmsharma122/coding-plateform-question/tree/main/0788-rotated-digits/) | Medium |
 | [0799-champagne-tower](https://github.com/premmsharma122/coding-plateform-question/tree/master/0799-champagne-tower) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/premmsharma122/coding-plateform-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -539,6 +543,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/premmsharma122/coding-plateform-question/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
