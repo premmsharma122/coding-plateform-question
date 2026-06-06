@@ -789,5 +789,6 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/premmsharma122/coding-plateform-question/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/premmsharma122/coding-plateform-question/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
