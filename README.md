@@ -501,6 +501,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/premmsharma122/coding-plateform-question/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0788-rotated-digits](https://github.com/premmsharma122/coding-plateform-question/tree/main/0788-rotated-digits/) | Medium |
 | [0799-champagne-tower](https://github.com/premmsharma122/coding-plateform-question/tree/master/0799-champagne-tower) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
