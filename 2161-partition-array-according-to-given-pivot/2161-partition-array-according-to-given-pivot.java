@@ -1,36 +1,32 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-        List<Integer> lower = new ArrayList<>();
-        List<Integer> upper = new ArrayList<>();
+        int n = nums.length;
+        int[] ans = new int[n];
 
-        for(int i=0; i<nums.length; i++){
-            if(nums[i] < pivot ){
-                lower.add(nums[i]);
-            }else if( nums[i] > pivot){
-                upper.add(nums[i]);
-            }
-        }
-        for(int i=0; i<nums.length; i++){
-            if(nums[i] == pivot){
-                lower.add(nums[i]);
-            }
-        }
+        int left = 0;
+        int right = n - 1;
 
-        List<Integer> f = new ArrayList<>();
-        int i=0,j=0;
-        while(i<lower.size()){
-            f.add(lower.get(i));
+        int i = 0;
+        int j = n - 1;
+
+        while (i < n) {
+            if (nums[i] < pivot) {
+                ans[left++] = nums[i];
+            }
+
+            if (nums[j] > pivot) {
+                ans[right--] = nums[j];
+            }
+
             i++;
+            j--;
         }
-        while(j<upper.size()){
-            f.add(upper.get(j));
-            j++;
-        }
-        int ans[] = new int[f.size()];
-       for(int k=0; k<f.size(); k++){
-        ans[k] = f.get(k);
-       }
-        return ans;
 
+        
+        while (left <= right) {
+            ans[left++] = pivot;
+        }
+
+        return ans;
     }
 }
