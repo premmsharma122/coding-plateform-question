@@ -327,6 +327,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2097-valid-arrangement-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2097-valid-arrangement-of-pairs) |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/premmsharma122/coding-plateform-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/premmsharma122/coding-plateform-question/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -577,6 +578,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1914-cyclically-rotating-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/premmsharma122/coding-plateform-question/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/premmsharma122/coding-plateform-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/premmsharma122/coding-plateform-question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -614,6 +616,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0876-middle-of-the-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/premmsharma122/coding-plateform-question/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/premmsharma122/coding-plateform-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
