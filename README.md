@@ -114,6 +114,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Tree
 |  |
 | ------- |
@@ -369,6 +370,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/premmsharma122/coding-plateform-question/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -415,6 +417,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -753,6 +756,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Stack
 |  |
 | ------- |
