@@ -182,6 +182,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -281,6 +282,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/premmsharma122/coding-plateform-question/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/premmsharma122/coding-plateform-question/tree/master/0084-largest-rectangle-in-histogram) |
