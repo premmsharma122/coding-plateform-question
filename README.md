@@ -145,6 +145,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/premmsharma122/coding-plateform-question/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/premmsharma122/coding-plateform-question/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -278,6 +280,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/premmsharma122/coding-plateform-question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Array
 |  |
 | ------- |
@@ -365,6 +368,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/premmsharma122/coding-plateform-question/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3546-equal-sum-grid-partition-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -541,6 +545,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/premmsharma122/coding-plateform-question/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/premmsharma122/coding-plateform-question/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/premmsharma122/coding-plateform-question/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -571,6 +576,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
