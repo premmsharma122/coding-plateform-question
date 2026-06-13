@@ -193,6 +193,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/premmsharma122/coding-plateform-question/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0700-search-in-a-binary-search-tree) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -308,6 +309,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
