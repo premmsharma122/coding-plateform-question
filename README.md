@@ -187,6 +187,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -293,6 +294,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/premmsharma122/coding-plateform-question/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/premmsharma122/coding-plateform-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/premmsharma122/coding-plateform-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -699,6 +701,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0048-rotate-image](https://github.com/premmsharma122/coding-plateform-question/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
