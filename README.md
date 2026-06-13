@@ -385,6 +385,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/premmsharma122/coding-plateform-question/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -494,6 +495,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3474-lexicographically-smallest-generated-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/premmsharma122/coding-plateform-question/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -599,6 +601,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/premmsharma122/coding-plateform-question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/premmsharma122/coding-plateform-question/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
