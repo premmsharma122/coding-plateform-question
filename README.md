@@ -851,6 +851,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1068-product-sales-analysis-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/premmsharma122/coding-plateform-question/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/premmsharma122/coding-plateform-question/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/premmsharma122/coding-plateform-question/tree/master/1280-students-and-examinations) |
