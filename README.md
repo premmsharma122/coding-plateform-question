@@ -103,6 +103,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/premmsharma122/coding-plateform-question/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/premmsharma122/coding-plateform-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -203,6 +204,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/premmsharma122/coding-plateform-question/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/premmsharma122/coding-plateform-question/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/premmsharma122/coding-plateform-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
@@ -593,6 +595,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2719-count-of-integers](https://github.com/premmsharma122/coding-plateform-question/tree/master/2719-count-of-integers) |
