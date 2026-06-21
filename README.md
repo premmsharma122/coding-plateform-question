@@ -104,6 +104,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/premmsharma122/coding-plateform-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -341,6 +342,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1732-find-the-highest-altitude](https://github.com/premmsharma122/coding-plateform-question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/premmsharma122/coding-plateform-question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/premmsharma122/coding-plateform-question/tree/master/1765-map-of-highest-peak) |
+| [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/premmsharma122/coding-plateform-question/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/premmsharma122/coding-plateform-question/tree/master/1861-rotating-the-box) |
@@ -682,6 +684,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1340-jump-game-v](https://github.com/premmsharma122/coding-plateform-question/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/premmsharma122/coding-plateform-question/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
@@ -883,4 +886,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1757-recyclable-and-low-fat-products](https://github.com/premmsharma122/coding-plateform-question/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/premmsharma122/coding-plateform-question/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/premmsharma122/coding-plateform-question/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
