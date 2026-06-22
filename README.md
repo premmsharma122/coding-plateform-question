@@ -419,6 +419,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0160-intersection-of-two-linked-lists](https://github.com/premmsharma122/coding-plateform-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/premmsharma122/coding-plateform-question/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/premmsharma122/coding-plateform-question/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -491,6 +492,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/premmsharma122/coding-plateform-question/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/premmsharma122/coding-plateform-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/premmsharma122/coding-plateform-question/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -524,6 +526,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/premmsharma122/coding-plateform-question/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/premmsharma122/coding-plateform-question/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
