@@ -208,6 +208,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/premmsharma122/coding-plateform-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -348,6 +349,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1848-minimum-distance-to-the-target-element](https://github.com/premmsharma122/coding-plateform-question/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/premmsharma122/coding-plateform-question/tree/master/1861-rotating-the-box) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/premmsharma122/coding-plateform-question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1914-cyclically-rotating-a-grid) |
