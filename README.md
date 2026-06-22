@@ -865,6 +865,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/premmsharma122/coding-plateform-question/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/premmsharma122/coding-plateform-question/tree/master/0570-managers-with-at-least-5-direct-reports) |
