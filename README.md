@@ -476,6 +476,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3355-zero-array-transformation-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3356-zero-array-transformation-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3546-equal-sum-grid-partition-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
@@ -585,6 +586,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/premmsharma122/coding-plateform-question/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/premmsharma122/coding-plateform-question/tree/main/3660-jump-game-ix/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
