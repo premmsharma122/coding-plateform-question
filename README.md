@@ -587,6 +587,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/premmsharma122/coding-plateform-question/tree/main/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -619,6 +620,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
