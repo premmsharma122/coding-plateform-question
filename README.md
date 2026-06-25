@@ -94,6 +94,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -407,6 +408,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3691-maximum-total-subarray-value-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -445,6 +447,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -456,6 +459,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3691-maximum-total-subarray-value-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -480,6 +484,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -536,6 +541,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1189-maximum-number-of-balloons](https://github.com/premmsharma122/coding-plateform-question/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/premmsharma122/coding-plateform-question/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -911,4 +917,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
