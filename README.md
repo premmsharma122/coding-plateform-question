@@ -114,6 +114,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -219,6 +220,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/premmsharma122/coding-plateform-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -385,6 +387,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/premmsharma122/coding-plateform-question/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/premmsharma122/coding-plateform-question/tree/main/2615-sum-of-distances/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/premmsharma122/coding-plateform-question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
@@ -606,6 +609,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2719-count-of-integers](https://github.com/premmsharma122/coding-plateform-question/tree/master/2719-count-of-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/premmsharma122/coding-plateform-question/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -734,6 +738,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/premmsharma122/coding-plateform-question/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
