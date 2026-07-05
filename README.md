@@ -216,6 +216,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/premmsharma122/coding-plateform-question/tree/master/2187-minimum-time-to-complete-trips) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -376,6 +377,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2161-partition-array-according-to-given-pivot](https://github.com/premmsharma122/coding-plateform-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/premmsharma122/coding-plateform-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/premmsharma122/coding-plateform-question/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -451,6 +453,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/premmsharma122/coding-plateform-question/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/premmsharma122/coding-plateform-question/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/premmsharma122/coding-plateform-question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -489,6 +492,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1732-find-the-highest-altitude](https://github.com/premmsharma122/coding-plateform-question/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2574-left-and-right-sum-differences](https://github.com/premmsharma122/coding-plateform-question/tree/master/2574-left-and-right-sum-differences) |
@@ -736,6 +740,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -966,4 +971,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
