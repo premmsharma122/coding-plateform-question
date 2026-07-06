@@ -340,6 +340,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/premmsharma122/coding-plateform-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1288-remove-covered-intervals](https://github.com/premmsharma122/coding-plateform-question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/premmsharma122/coding-plateform-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/premmsharma122/coding-plateform-question/tree/master/1340-jump-game-v) |
@@ -733,6 +734,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1288-remove-covered-intervals](https://github.com/premmsharma122/coding-plateform-question/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/premmsharma122/coding-plateform-question/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/premmsharma122/coding-plateform-question/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
