@@ -211,6 +211,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/premmsharma122/coding-plateform-question/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/premmsharma122/coding-plateform-question/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/premmsharma122/coding-plateform-question/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -353,6 +354,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1582-special-positions-in-a-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/premmsharma122/coding-plateform-question/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/premmsharma122/coding-plateform-question/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/premmsharma122/coding-plateform-question/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/premmsharma122/coding-plateform-question/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -743,6 +745,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/premmsharma122/coding-plateform-question/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/premmsharma122/coding-plateform-question/tree/master/1340-jump-game-v) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/premmsharma122/coding-plateform-question/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/premmsharma122/coding-plateform-question/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
