@@ -232,6 +232,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3356-zero-array-transformation-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/premmsharma122/coding-plateform-question/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -422,6 +423,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/premmsharma122/coding-plateform-question/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/premmsharma122/coding-plateform-question/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/premmsharma122/coding-plateform-question/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -474,6 +476,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [3120-count-the-number-of-special-characters-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/premmsharma122/coding-plateform-question/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/3714-longest-balanced-substring-ii) |
@@ -861,6 +864,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/premmsharma122/coding-plateform-question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -876,6 +880,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/premmsharma122/coding-plateform-question/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/premmsharma122/coding-plateform-question/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/premmsharma122/coding-plateform-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
