@@ -211,6 +211,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/premmsharma122/coding-plateform-question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/premmsharma122/coding-plateform-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/premmsharma122/coding-plateform-question/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1539-kth-missing-positive-number](https://github.com/premmsharma122/coding-plateform-question/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/premmsharma122/coding-plateform-question/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -352,6 +353,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1340-jump-game-v](https://github.com/premmsharma122/coding-plateform-question/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/premmsharma122/coding-plateform-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/premmsharma122/coding-plateform-question/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
