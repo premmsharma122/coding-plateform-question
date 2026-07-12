@@ -356,6 +356,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1288-remove-covered-intervals](https://github.com/premmsharma122/coding-plateform-question/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/premmsharma122/coding-plateform-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/premmsharma122/coding-plateform-question/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -468,6 +469,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/premmsharma122/coding-plateform-question/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/premmsharma122/coding-plateform-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -764,6 +766,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/premmsharma122/coding-plateform-question/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/premmsharma122/coding-plateform-question/tree/master/1340-jump-game-v) |
 | [1552-magnetic-force-between-two-balls](https://github.com/premmsharma122/coding-plateform-question/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/premmsharma122/coding-plateform-question/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
