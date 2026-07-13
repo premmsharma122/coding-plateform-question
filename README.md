@@ -601,6 +601,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/premmsharma122/coding-plateform-question/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/premmsharma122/coding-plateform-question/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3713-longest-balanced-substring-i) |
