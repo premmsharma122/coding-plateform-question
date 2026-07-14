@@ -223,6 +223,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/premmsharma122/coding-plateform-question/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/premmsharma122/coding-plateform-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
@@ -391,6 +392,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/premmsharma122/coding-plateform-question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2070-most-beautiful-item-for-each-query](https://github.com/premmsharma122/coding-plateform-question/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/premmsharma122/coding-plateform-question/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2097-valid-arrangement-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2097-valid-arrangement-of-pairs) |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
@@ -784,6 +786,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/premmsharma122/coding-plateform-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2070-most-beautiful-item-for-each-query](https://github.com/premmsharma122/coding-plateform-question/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2126-destroying-asteroids](https://github.com/premmsharma122/coding-plateform-question/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
