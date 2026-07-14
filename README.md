@@ -207,6 +207,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0700-search-in-a-binary-search-tree) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -344,6 +345,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -749,6 +751,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0141-linked-list-cycle](https://github.com/premmsharma122/coding-plateform-question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/premmsharma122/coding-plateform-question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0696-count-binary-substrings](https://github.com/premmsharma122/coding-plateform-question/tree/master/0696-count-binary-substrings) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -765,6 +768,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
