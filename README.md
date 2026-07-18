@@ -391,6 +391,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/premmsharma122/coding-plateform-question/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/premmsharma122/coding-plateform-question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/premmsharma122/coding-plateform-question/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -690,6 +691,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2719-count-of-integers](https://github.com/premmsharma122/coding-plateform-question/tree/master/2719-count-of-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/premmsharma122/coding-plateform-question/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -970,6 +972,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/premmsharma122/coding-plateform-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/premmsharma122/coding-plateform-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/premmsharma122/coding-plateform-question/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
