@@ -228,6 +228,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/premmsharma122/coding-plateform-question/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/premmsharma122/coding-plateform-question/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2187-minimum-time-to-complete-trips](https://github.com/premmsharma122/coding-plateform-question/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/premmsharma122/coding-plateform-question/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -408,6 +409,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2161-partition-array-according-to-given-pivot](https://github.com/premmsharma122/coding-plateform-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/premmsharma122/coding-plateform-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/premmsharma122/coding-plateform-question/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/premmsharma122/coding-plateform-question/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
