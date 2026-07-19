@@ -117,6 +117,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/premmsharma122/coding-plateform-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2560-house-robber-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/2560-house-robber-iv) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -236,6 +237,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2448-minimum-cost-to-make-array-equal](https://github.com/premmsharma122/coding-plateform-question/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
+| [2560-house-robber-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -421,6 +423,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/premmsharma122/coding-plateform-question/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2553-separate-the-digits-in-an-array) |
+| [2560-house-robber-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/premmsharma122/coding-plateform-question/tree/master/2574-left-and-right-sum-differences) |
@@ -666,6 +669,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/premmsharma122/coding-plateform-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2439-minimize-maximum-of-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/premmsharma122/coding-plateform-question/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2560-house-robber-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/2560-house-robber-iv) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
