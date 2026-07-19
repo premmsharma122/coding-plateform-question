@@ -239,6 +239,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2540-minimum-common-value](https://github.com/premmsharma122/coding-plateform-question/tree/master/2540-minimum-common-value) |
 | [2560-house-robber-iv](https://github.com/premmsharma122/coding-plateform-question/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2594-minimum-time-to-repair-cars](https://github.com/premmsharma122/coding-plateform-question/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/premmsharma122/coding-plateform-question/tree/master/2968-apply-operations-to-maximize-frequency-score) |
@@ -427,6 +428,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [2563-count-the-number-of-fair-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2573-find-the-string-with-lcp](https://github.com/premmsharma122/coding-plateform-question/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/premmsharma122/coding-plateform-question/tree/master/2574-left-and-right-sum-differences) |
+| [2594-minimum-time-to-repair-cars](https://github.com/premmsharma122/coding-plateform-question/tree/master/2594-minimum-time-to-repair-cars) |
 | [2615-sum-of-distances](https://github.com/premmsharma122/coding-plateform-question/tree/main/2615-sum-of-distances/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/premmsharma122/coding-plateform-question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/premmsharma122/coding-plateform-question/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
