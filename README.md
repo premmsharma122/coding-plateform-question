@@ -100,6 +100,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -576,6 +577,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0796-rotate-string](https://github.com/premmsharma122/coding-plateform-question/tree/main/0796-rotate-string/) | Easy |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/premmsharma122/coding-plateform-question/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/premmsharma122/coding-plateform-question/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -959,6 +961,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0032-longest-valid-parentheses](https://github.com/premmsharma122/coding-plateform-question/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/premmsharma122/coding-plateform-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/premmsharma122/coding-plateform-question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/premmsharma122/coding-plateform-question/tree/master/2751-robot-collisions) |
 ## Design
@@ -993,6 +996,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/premmsharma122/coding-plateform-question/tree/master/0084-largest-rectangle-in-histogram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/premmsharma122/coding-plateform-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Shortest Path
 |  |
 | ------- |
