@@ -1,36 +1,18 @@
-import java.util.*;
-
 class Solution {
-
-    int[][] dp;
-
-    public int help(int[] a, int idx, int prevIdx) {
-
-        if (idx == a.length) return 0;
-
-        if (dp[idx][prevIdx + 1] != -1)
-            return dp[idx][prevIdx + 1];
-
-        // skip
-        int skip = help(a, idx + 1, prevIdx);
-
-        // take
-        int take = 0;
-        if (prevIdx == -1 || a[idx] > a[prevIdx]) {
-            take = 1 + help(a, idx + 1, idx);
-        }
-
-        return dp[idx][prevIdx + 1] = Math.max(take, skip);
-    }
-
     public int lengthOfLIS(int[] nums) {
+        int arr[] = new int[nums.length];
+        Arrays.fill(arr,1);
 
-        int n = nums.length;
-        dp = new int[n][n + 1];
-
-        for (int[] row : dp)
-            Arrays.fill(row, -1);
-
-        return help(nums, 0, -1);
+        int max =1;
+        for(int i=1;i<nums.length; i++){
+            for(int j=0; j<i; j++){
+                if(nums[i] > nums[j]){
+                    arr[i] = Math.max(arr[i] , arr[j]+1);
+                }
+            }
+        max = Math.max(max, arr[i]);
+        }
+        
+        return max;
     }
 }
