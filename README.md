@@ -357,6 +357,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
@@ -658,6 +659,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/premmsharma122/coding-plateform-question/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0788-rotated-digits](https://github.com/premmsharma122/coding-plateform-question/tree/main/0788-rotated-digits/) | Medium |
@@ -764,6 +766,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/premmsharma122/coding-plateform-question/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/premmsharma122/coding-plateform-question/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/1980-find-unique-binary-string) |
 ## Linked List
