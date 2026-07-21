@@ -1,12 +1,12 @@
-<h2><a href="https://leetcode.com/problems/coin-change/">322. Coin Change</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>amount</code> representing a total amount of money.</p>
+<h2><a href="https://leetcode.com/problems/coin-change">322. Coin Change</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>amount</code> representing a total amount of money.</p>
 
 <p>Return <em>the fewest number of coins that you need to make up that amount</em>. If that amount of money cannot be made up by any combination of the coins, return <code>-1</code>.</p>
-<prem>
+
 <p>You may assume that you have an infinite number of each kind of coin.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-    
+
 <pre>
 <strong>Input:</strong> coins = [1,2,5], amount = 11
 <strong>Output:</strong> 3
