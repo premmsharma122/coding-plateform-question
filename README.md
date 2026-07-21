@@ -576,6 +576,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0067-add-binary](https://github.com/premmsharma122/coding-plateform-question/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/premmsharma122/coding-plateform-question/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/premmsharma122/coding-plateform-question/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
@@ -647,6 +648,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0032-longest-valid-parentheses](https://github.com/premmsharma122/coding-plateform-question/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/premmsharma122/coding-plateform-question/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/premmsharma122/coding-plateform-question/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
