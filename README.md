@@ -174,6 +174,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/premmsharma122/coding-plateform-question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0543-diameter-of-binary-tree) |
@@ -295,6 +296,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0199-binary-tree-right-side-view](https://github.com/premmsharma122/coding-plateform-question/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/premmsharma122/coding-plateform-question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0662-maximum-width-of-binary-tree) |
@@ -947,6 +949,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0133-clone-graph](https://github.com/premmsharma122/coding-plateform-question/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/0743-network-delay-time) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premmsharma122/coding-plateform-question/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -995,6 +998,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/premmsharma122/coding-plateform-question/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/0210-course-schedule-ii) |
 ## String Matching
 |  |
 | ------- |
