@@ -372,6 +372,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/premmsharma122/coding-plateform-question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/premmsharma122/coding-plateform-question/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/premmsharma122/coding-plateform-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -997,6 +998,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/premmsharma122/coding-plateform-question/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/premmsharma122/coding-plateform-question/tree/master/1834-single-threaded-cpu) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
