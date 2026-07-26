@@ -88,6 +88,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/premmsharma122/coding-plateform-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/premmsharma122/coding-plateform-question/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/premmsharma122/coding-plateform-question/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -361,6 +362,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0300-longest-increasing-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/premmsharma122/coding-plateform-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/premmsharma122/coding-plateform-question/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0494-target-sum) |
@@ -507,6 +509,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0139-word-break](https://github.com/premmsharma122/coding-plateform-question/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/premmsharma122/coding-plateform-question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/premmsharma122/coding-plateform-question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/premmsharma122/coding-plateform-question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -645,6 +648,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/premmsharma122/coding-plateform-question/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/premmsharma122/coding-plateform-question/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -837,6 +841,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -996,6 +1001,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/premmsharma122/coding-plateform-question/tree/master/1046-last-stone-weight) |
@@ -1134,5 +1140,10 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
