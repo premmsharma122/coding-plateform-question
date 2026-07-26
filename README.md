@@ -403,6 +403,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/premmsharma122/coding-plateform-question/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1765-map-of-highest-peak](https://github.com/premmsharma122/coding-plateform-question/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/premmsharma122/coding-plateform-question/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/premmsharma122/coding-plateform-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/premmsharma122/coding-plateform-question/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/premmsharma122/coding-plateform-question/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -850,6 +851,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/premmsharma122/coding-plateform-question/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/premmsharma122/coding-plateform-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/premmsharma122/coding-plateform-question/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/premmsharma122/coding-plateform-question/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/premmsharma122/coding-plateform-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/premmsharma122/coding-plateform-question/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -996,6 +998,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/premmsharma122/coding-plateform-question/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/premmsharma122/coding-plateform-question/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/premmsharma122/coding-plateform-question/tree/master/1834-single-threaded-cpu) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/premmsharma122/coding-plateform-question/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/premmsharma122/coding-plateform-question/tree/master/2812-find-the-safest-path-in-a-grid) |
