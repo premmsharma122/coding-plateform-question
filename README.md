@@ -365,6 +365,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0416-partition-equal-subset-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/premmsharma122/coding-plateform-question/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premmsharma122/coding-plateform-question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
@@ -726,6 +727,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0279-perfect-squares](https://github.com/premmsharma122/coding-plateform-question/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/premmsharma122/coding-plateform-question/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/premmsharma122/coding-plateform-question/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/premmsharma122/coding-plateform-question/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
@@ -834,6 +836,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/premmsharma122/coding-plateform-question/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0761-special-binary-string](https://github.com/premmsharma122/coding-plateform-question/tree/master/0761-special-binary-string) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
