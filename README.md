@@ -372,6 +372,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0719-find-k-th-smallest-pair-distance](https://github.com/premmsharma122/coding-plateform-question/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/premmsharma122/coding-plateform-question/tree/master/0826-most-profit-assigning-work) |
 | [0874-walking-robot-simulation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/premmsharma122/coding-plateform-question/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premmsharma122/coding-plateform-question/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/premmsharma122/coding-plateform-question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -696,6 +697,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/premmsharma122/coding-plateform-question/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0788-rotated-digits](https://github.com/premmsharma122/coding-plateform-question/tree/main/0788-rotated-digits/) | Medium |
 | [0799-champagne-tower](https://github.com/premmsharma122/coding-plateform-question/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/premmsharma122/coding-plateform-question/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
@@ -743,6 +745,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0628-maximum-product-of-three-numbers](https://github.com/premmsharma122/coding-plateform-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/premmsharma122/coding-plateform-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/premmsharma122/coding-plateform-question/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/premmsharma122/coding-plateform-question/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -1160,4 +1163,8 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/premmsharma122/coding-plateform-question/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/premmsharma122/coding-plateform-question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
