@@ -381,6 +381,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/premmsharma122/coding-plateform-question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/premmsharma122/coding-plateform-question/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/premmsharma122/coding-plateform-question/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/premmsharma122/coding-plateform-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -569,6 +570,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/premmsharma122/coding-plateform-question/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/premmsharma122/coding-plateform-question/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1871-jump-game-vii) |
@@ -708,6 +710,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0877-stone-game](https://github.com/premmsharma122/coding-plateform-question/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1140-stone-game-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/premmsharma122/coding-plateform-question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/premmsharma122/coding-plateform-question/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -757,6 +760,7 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 | [0877-stone-game](https://github.com/premmsharma122/coding-plateform-question/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/premmsharma122/coding-plateform-question/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/premmsharma122/coding-plateform-question/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1140-stone-game-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/premmsharma122/coding-plateform-question/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-stone-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/premmsharma122/coding-plateform-question/tree/master/1622-fancy-sequence) |
@@ -1183,13 +1187,16 @@ This repository is created to strengthen **Data Structures & Algorithms**, impro
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/premmsharma122/coding-plateform-question/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premmsharma122/coding-plateform-question/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
