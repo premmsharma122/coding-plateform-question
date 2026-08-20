@@ -5,7 +5,7 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg" style="width: 542px; height: 222px;" />
 <pre>
 <strong>Input:</strong> head = [1,2,3,4,5], n = 2
-<strong>Output:</strong> [1,2,3,5]
+<strong>Output:</strong> [1,2,3,5]. 
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
