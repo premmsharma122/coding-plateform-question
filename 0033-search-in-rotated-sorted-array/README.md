@@ -17,6 +17,7 @@
 <pre><strong>Input:</strong> nums = [1], target = 0.   
 <strong>Output:</strong> -1
 </pre>
+</pre>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
